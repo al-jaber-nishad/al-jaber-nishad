@@ -8,5 +8,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about whatever you want.
 - 📫 How to reach me: mainishad02@gmail.com
 
-![Visitor Count](https://profile-counter.glitch.me/{al-jaber-nishad}/count.svg)
 
