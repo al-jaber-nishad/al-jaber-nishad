@@ -23,7 +23,7 @@ Reach me though email: mailnishad02@gmail.com
 </code>
 <code><img height=22px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 </code>
-<br>
+<br><br>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=al-jaber-nishad)
-<br>
+<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=al-jaber-nishad)](https://github.com/al-jaber-nishad/github-readme-stats)
