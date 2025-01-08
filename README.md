@@ -38,23 +38,7 @@ When I'm not coding, you'll find me exploring new tech, working on AI-generated 
 
 
 
-<img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=al-jaber-nishad&theme=windows-dark&mode=daily&hide_border=false&locale=en" alt="GitHub Streak Stats" />
-
-
-
-
----
-
-
-<img height="auto" src="https://komarev.com/ghpvc/?username=al-jaber-nishad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-
-
-
----
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=al-jaber-nishad&theme=windows-dark&mode=daily&hide_border=false&locale=en" alt="GitHub Streak Stats" />
 
 ---
 
@@ -91,3 +75,10 @@ When I'm not coding, you'll find me exploring new tech, working on AI-generated 
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/> </a>
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/> </a>
 <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="Xamarin
+
+
+<img height="auto" src="https://komarev.com/ghpvc/?username=al-jaber-nishad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+
+
+
+Thanks for stopping by! Let's build something amazing together! 🚀
